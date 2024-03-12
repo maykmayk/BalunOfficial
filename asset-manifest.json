@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/BalunOfficial/static/css/main.406649a9.css",
+    "main.js": "/BalunOfficial/static/js/main.7daf29a7.js",
+    "static/js/787.0521065e.chunk.js": "/BalunOfficial/static/js/787.0521065e.chunk.js",
+    "static/media/SF-Pro-Display-Semibold.otf": "/BalunOfficial/static/media/SF-Pro-Display-Semibold.79eabb3c4c68acdcccbf.otf",
+    "static/media/GT-Walsheim-Regular-Trial-BF651b7fc71a47d.otf": "/BalunOfficial/static/media/GT-Walsheim-Regular-Trial-BF651b7fc71a47d.ee9ff09fe57183b4789d.otf",
+    "index.html": "/BalunOfficial/index.html",
+    "main.406649a9.css.map": "/BalunOfficial/static/css/main.406649a9.css.map",
+    "main.7daf29a7.js.map": "/BalunOfficial/static/js/main.7daf29a7.js.map",
+    "787.0521065e.chunk.js.map": "/BalunOfficial/static/js/787.0521065e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.406649a9.css",
+    "static/js/main.7daf29a7.js"
+  ]
+}
